@@ -1,5 +1,5 @@
 # Random-image-generator
-simple script that generates fuzzy images absed on the users input
+simple script that generates fuzzy images based on the users input
 -
 
 Q: what dose "RIG" mean
