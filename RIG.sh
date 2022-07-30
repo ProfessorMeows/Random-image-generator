@@ -7,3 +7,8 @@ mx=$WID;my=$HEI;head -c "$((3*mx*my))" /dev/urandom | convert -depth 8 -size "${
 echo ""
 echo "fuzzy images generated!"
 echo ""
+# changing some vaules for safety
+WID=SFL5
+HEI=SFL7
+# sfl means safety feature lol
+
