@@ -1,12 +1,13 @@
 # Random-image-generator
 simple script that generates fuzzy images based on the users input
--
-
+---
+free to modify and share but you must give me credit
+---
 Q: what dose "RIG" mean
 
 A: random image generator
 
----------
+---
 how to run:
 
 1.download code <br />
